@@ -1,0 +1,176 @@
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\appsettings.Development.json
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\appsettings.json
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\Maj2021.exe
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\Maj2021.deps.json
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\Maj2021.runtimeconfig.json
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\Maj2021.runtimeconfig.dev.json
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\Maj2021.dll
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\ref\Maj2021.dll
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\Maj2021.pdb
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\Humanizer.dll
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\III godina\I semestar\Web programiranje\Maj2021\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\III godina\I semestar\Web programiranje\Maj2021\obj\Debug\net5.0\Maj2021.csproj.AssemblyReference.cache
+D:\III godina\I semestar\Web programiranje\Maj2021\obj\Debug\net5.0\Maj2021.GeneratedMSBuildEditorConfig.editorconfig
+D:\III godina\I semestar\Web programiranje\Maj2021\obj\Debug\net5.0\Maj2021.AssemblyInfoInputs.cache
+D:\III godina\I semestar\Web programiranje\Maj2021\obj\Debug\net5.0\Maj2021.AssemblyInfo.cs
+D:\III godina\I semestar\Web programiranje\Maj2021\obj\Debug\net5.0\Maj2021.csproj.CoreCompileInputs.cache
+D:\III godina\I semestar\Web programiranje\Maj2021\obj\Debug\net5.0\Maj2021.MvcApplicationPartsAssemblyInfo.cs
+D:\III godina\I semestar\Web programiranje\Maj2021\obj\Debug\net5.0\Maj2021.MvcApplicationPartsAssemblyInfo.cache
+D:\III godina\I semestar\Web programiranje\Maj2021\obj\Debug\net5.0\staticwebassets\Maj2021.StaticWebAssets.Manifest.cache
+D:\III godina\I semestar\Web programiranje\Maj2021\obj\Debug\net5.0\staticwebassets\Maj2021.StaticWebAssets.xml
+D:\III godina\I semestar\Web programiranje\Maj2021\obj\Debug\net5.0\scopedcss\bundle\Maj2021.styles.css
+D:\III godina\I semestar\Web programiranje\Maj2021\obj\Debug\net5.0\Maj2021.RazorTargetAssemblyInfo.cache
+D:\III godina\I semestar\Web programiranje\Maj2021\obj\Debug\net5.0\Maj2021.dll
+D:\III godina\I semestar\Web programiranje\Maj2021\obj\Debug\net5.0\ref\Maj2021.dll
+D:\III godina\I semestar\Web programiranje\Maj2021\obj\Debug\net5.0\Maj2021.pdb
+D:\III godina\I semestar\Web programiranje\Maj2021\obj\Debug\net5.0\Maj2021.genruntimeconfig.cache
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\appsettings.Development.json
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\appsettings.json
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Maj2021.exe
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Maj2021.deps.json
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Maj2021.runtimeconfig.json
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Maj2021.runtimeconfig.dev.json
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Maj2021.dll
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\ref\Maj2021.dll
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Maj2021.pdb
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Humanizer.dll
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\obj\Debug\net5.0\Maj2021.csproj.AssemblyReference.cache
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\obj\Debug\net5.0\Maj2021.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\obj\Debug\net5.0\Maj2021.AssemblyInfoInputs.cache
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\obj\Debug\net5.0\Maj2021.AssemblyInfo.cs
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\obj\Debug\net5.0\Maj2021.csproj.CoreCompileInputs.cache
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\obj\Debug\net5.0\Maj2021.MvcApplicationPartsAssemblyInfo.cs
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\obj\Debug\net5.0\Maj2021.MvcApplicationPartsAssemblyInfo.cache
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\obj\Debug\net5.0\staticwebassets\Maj2021.StaticWebAssets.Manifest.cache
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\obj\Debug\net5.0\staticwebassets\Maj2021.StaticWebAssets.xml
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\obj\Debug\net5.0\scopedcss\bundle\Maj2021.styles.css
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\obj\Debug\net5.0\Maj2021.RazorTargetAssemblyInfo.cache
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\obj\Debug\net5.0\Maj2021.csproj.CopyComplete
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\obj\Debug\net5.0\Maj2021.dll
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\obj\Debug\net5.0\ref\Maj2021.dll
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\obj\Debug\net5.0\Maj2021.pdb
+D:\1. FAKS JOVANA\3. TRECA GODINA\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\obj\Debug\net5.0\Maj2021.genruntimeconfig.cache
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\appsettings.Development.json
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\appsettings.json
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Maj2021.exe
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Maj2021.deps.json
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Maj2021.runtimeconfig.json
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Maj2021.runtimeconfig.dev.json
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Maj2021.dll
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\ref\Maj2021.dll
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Maj2021.pdb
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Humanizer.dll
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\obj\Debug\net5.0\Maj2021.csproj.AssemblyReference.cache
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\obj\Debug\net5.0\Maj2021.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\obj\Debug\net5.0\Maj2021.AssemblyInfoInputs.cache
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\obj\Debug\net5.0\Maj2021.AssemblyInfo.cs
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\obj\Debug\net5.0\Maj2021.csproj.CoreCompileInputs.cache
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\obj\Debug\net5.0\Maj2021.MvcApplicationPartsAssemblyInfo.cs
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\obj\Debug\net5.0\Maj2021.MvcApplicationPartsAssemblyInfo.cache
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\obj\Debug\net5.0\staticwebassets\Maj2021.StaticWebAssets.Manifest.cache
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\obj\Debug\net5.0\staticwebassets\Maj2021.StaticWebAssets.xml
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\obj\Debug\net5.0\scopedcss\bundle\Maj2021.styles.css
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\obj\Debug\net5.0\Maj2021.RazorTargetAssemblyInfo.cache
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\obj\Debug\net5.0\Maj2021.csproj.CopyComplete
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\obj\Debug\net5.0\Maj2021.dll
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\obj\Debug\net5.0\ref\Maj2021.dll
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\obj\Debug\net5.0\Maj2021.pdb
+D:\1. FAKS JOVANA\treca godina\1. semestar\web prog\RADJENI BLANKETI ANDJELIJA\Radjeni_blanketi\Radjeni blanketi\Maj2021\obj\Debug\net5.0\Maj2021.genruntimeconfig.cache
